@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeginingASPNETCh2", "BeginingASPNETCh2\BeginingASPNETCh2.csproj", "{10EC3A11-F286-4D60-A282-5B7F54E26CC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeginingASPNETCh2.Tests", "BeginingASPNETCh2.Tests\BeginingASPNETCh2.Tests.csproj", "{725DA082-7674-40BA-9643-90B65B9175EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10EC3A11-F286-4D60-A282-5B7F54E26CC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10EC3A11-F286-4D60-A282-5B7F54E26CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10EC3A11-F286-4D60-A282-5B7F54E26CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10EC3A11-F286-4D60-A282-5B7F54E26CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{725DA082-7674-40BA-9643-90B65B9175EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{725DA082-7674-40BA-9643-90B65B9175EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{725DA082-7674-40BA-9643-90B65B9175EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{725DA082-7674-40BA-9643-90B65B9175EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
